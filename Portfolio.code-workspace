@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "../Documents/GitHub/Portfolio"
+		},
+		{
+			"path": "css"
+		},
+		{
+			"path": "img"
+		},
+		{
+			"path": "js"
+		},
+		{
+			"path": "hide3/css"
+		},
+		{
+			"path": "hide3/img"
+		},
+		{
+			"path": "hide3/js"
+		},
+		{
+			"path": "hide3/webfonts"
+		}
+	],
+	"settings": {}
+}
